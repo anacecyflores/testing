@@ -1,3 +1,3 @@
 # testing
 
-hello
+Updated terminal and GIt token
